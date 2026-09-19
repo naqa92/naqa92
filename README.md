@@ -1,6 +1,6 @@
 # Hi 👋, I'm naqa92
 
-### Plateform Engineer
+### Platform Engineer
 
 - 🔭 I'm currently working on **Building SaaS products and a technical portfolio - I believe the best way to prove your skills is to ship real things.**
 
